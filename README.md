@@ -1,6 +1,6 @@
 (1)install python
 
-(2)click on the (kiti webserver.py)
+(2)click on the (kiti webserver folder and the kiti webserver.py)
 
 (3)now go to the site and your redy
 
