@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">Kiti-Webserver</h1>
-  <h3 align="center">🐍 Python Webserver</h3>
+  <h3 align="center">A minimal Python Webserver</h3>
 
   <p align="center">
     <img src="https://img.shields.io/badge/Made%20with-Python-3776AB?style=flat-square&logo=python&logoColor=white">
@@ -36,15 +36,6 @@ A simple Python-based web server you can run and edit with ease.
    - Click **"Run new task"** → then **Browse**.  
    - Locate your `.py` file (select "All Files" if it’s not showing).  
    - Hit **Enter**, and it’s set to launch on startup.
-
----
-
-## 📄 License
-
-This software is **free for private/personal use**.
-
-> 🔒 **Commercial use is not permitted** at this time.  
-> 💼 **Commercial licensing information coming soon.**
 
 ---
 
